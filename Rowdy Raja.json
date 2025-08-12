@@ -1,15 +1,15 @@
 [
   {
-    "id": "d83747179093c72f",
-    "username": "Rowdy",
-    "password": "Rowdy123",
+    "id": "",
+    "username": "",
+    "password": "",
     "expiresAt": "2028-12-12",
     "allowOffline": false
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "",
+    "username": "",
+    "password": "",
     "expiresAt": "2024-11-30",
     "allowOffline": false
   }
