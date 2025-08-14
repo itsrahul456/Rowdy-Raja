@@ -1,22 +1,22 @@
 [
   {
-    "id": "d83747179093c72f",
+    "id": "c7ed70dda594a974",
     "username": "Rowdy",
     "password": "Rowdy123",
     "expiresAt": "2028-12-12",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "c7ed70dda594a974",
     "username": "Rowdy",
     "password": "Rowdy123",
     "expiresAt": "2028-12-12",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
 [
   {
-    "id": "d83747179093c72f",
+    "id": "c7ed70dda594a974",
     "username": "Rowdy",
     "password": "Rowdy123",
     "expiresAt": "2028-12-12",
