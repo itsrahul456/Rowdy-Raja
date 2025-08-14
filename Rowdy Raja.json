@@ -14,3 +14,19 @@
     "allowOffline": false
   }
 ]
+[
+  {
+    "id": "d83747179093c72f",
+    "username": "Rowdy",
+    "password": "Rowdy123",
+    "expiresAt": "2028-12-12",
+    "allowOffline": true
+  },
+  {
+    "id": "c7ed70dda594a974",
+    "username": "Rowdy",
+    "password": "Rowdy123",
+    "expiresAt": "2028-12-12",
+    "allowOffline": true
+  }
+]
